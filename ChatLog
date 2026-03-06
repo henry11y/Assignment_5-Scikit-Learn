@@ -1,0 +1,9 @@
+Purpose:
+Copilot was used to help understand the assignment instructions and assist with structuring the Python code for the Scikit Learn classification project.
+
+Assistance Provided:
+- Helped generate a Python script that loads the breast cancer dataset from Scikit Learn.
+- Assisted with implementing three classification models: Logistic Regression, K-Nearest Neighbors, and Random Forest.
+- Helped with the train/test data split and scaling the data using StandardScaler.
+- Assisted with calculating evaluation metrics such as Accuracy, Precision, Recall, F1 Score, and ROC AUC.
+
